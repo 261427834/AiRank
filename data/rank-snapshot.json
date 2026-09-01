@@ -1,0 +1,622 @@
+{
+  "source": "https://ai.36kr.com/ai-product-rank",
+  "fetchedAt": "2026-08-28T02:37:55.193Z",
+  "score": {
+    "items": [
+      {
+        "rank": 1,
+        "id": 15057,
+        "logo": "https://img.36dianping.com/20260518/v2_fef436e815a140c180e7b8fe65ecd0e4_oswg42440oswg328oswg328_img_000",
+        "name": "麦芽AI",
+        "summary": "麦芽AI是一款面向企业的智能分析与自动化平台，融合数据洞察、流程自动化和智能决策，帮助企业提升效率、降低成本、加速创新。",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 1
+      },
+      {
+        "rank": 2,
+        "id": 15070,
+        "logo": "https://img.36dianping.com/20260624/v2_3aa217d514d845fb9b896038cf94831e_oswg44271oswg200oswg200_img_000",
+        "name": "蛙趣拼文",
+        "summary": "专为中文长篇创作打造的AI写作工作台，通过素材库与记忆系统解决角色跑偏、伏笔遗忘等长篇小说创作难题。",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 2
+      },
+      {
+        "rank": 3,
+        "id": 15071,
+        "logo": "https://img.36dianping.com/20260624/v2_bbf7f7a571bf465fbd436bdacf60a56e_oswg78080oswg834oswg834_img_000",
+        "name": "Mugen3D",
+        "summary": "Mugen3D是一款由深圳初创公司趣象时空推出的AI平台，能将单张普通照片快速转化为高精度、高保真的3D模型。",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 3
+      },
+      {
+        "rank": 4,
+        "id": 15088,
+        "logo": "https://img.36dianping.com/20260706/v2_3a4a38d3c5b14999b0173189288aebd6_oswg43137oswg520oswg519_img_000",
+        "name": "懂你AI",
+        "summary": "懂你AI：是基于性格画像的关系沟通与人生决策助手 ---帮你看懂自己、看懂他人，并给出当下这件事该怎么说、怎么选、怎么做。",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 4
+      },
+      {
+        "rank": 5,
+        "id": 15091,
+        "logo": "https://img.36dianping.com/20260710/v2_938fc1f38d2840f09bbd62f2f9fb9437_oswg92305oswg1024oswg1024_img_000",
+        "name": "随身鹿",
+        "summary": "随身鹿是一款集录音转写、图片识别、媒体编辑、AI智能整理与多端云同步于一体的效率工具，帮助用户将碎片化音视频和图片快速转化为可搜",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 5
+      },
+      {
+        "rank": 6,
+        "id": 15092,
+        "logo": "https://img.36dianping.com/20260710/v2_390c7b567a654af2adb0bc62bc19ce2c_oswg67624oswg600oswg600_img_000",
+        "name": "专其利AI",
+        "summary": "京东式知识产权服务平台：弥补发明人与专业代理机构之间的沟通成本与专业认知差。",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 1
+      },
+      {
+        "rank": 7,
+        "id": 15100,
+        "logo": "https://img.36dianping.com/20260718/v2_99f09c11ea044560928e7833af58dca9_oswg65343oswg512oswg512_img_000",
+        "name": "飙算画影网",
+        "summary": "飙算画影网：支持无限画布一站式AI图片/视频创作平台。集合IMAGE2/Seedream5.0等多款AI模型，一站式完成电商主图",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 2
+      },
+      {
+        "rank": 8,
+        "id": 15103,
+        "logo": "https://img.36dianping.com/20260727/v2_da40125c295142ec8304d2ca84fe2776_oswg7921oswg860oswg854_img_000",
+        "name": "TokenByte",
+        "summary": "TokenByte 是一站式大模型推理与 AI 智能体开发云平台，聚合百余种主流多模态大模型，提供统一 API 接入、智能算力调",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 3
+      },
+      {
+        "rank": 9,
+        "id": 15135,
+        "logo": "https://img.36dianping.com/20260807/v2_548c5d6e6f0a4b74ab321c9ee01e2224_oswg5640oswg256oswg256_img_000",
+        "name": "软牛PDF",
+        "summary": "一款专业、高效、智能的PDF文档处理软件",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 4
+      },
+      {
+        "rank": 10,
+        "id": 15143,
+        "logo": "https://img.36dianping.com/20260813/v2_6d803d96ba9c4e1c9311670c5e3c100b_oswg128786oswg512oswg512_img_000",
+        "name": "PatX 知小寻",
+        "summary": "贯穿IP全流程的AI原生专利智能体平台",
+        "score": "4.5",
+        "starRating": 4.5,
+        "logoTone": 5
+      },
+      {
+        "rank": 11,
+        "id": 14563,
+        "logo": "https://img.36dianping.com/20250909/v2_91e348cd9b9b49e59ba6c0c98dbd5a6b_oswg8441oswg80oswg80_img_000",
+        "name": "豆包",
+        "summary": "字节跳动推出的全能AI助手，提供问答、写作、翻译、生图及视频生成等多模态服务。",
+        "score": "4.4",
+        "starRating": 4.4,
+        "logoTone": 1
+      },
+      {
+        "rank": 12,
+        "id": 2695,
+        "logo": "https://img.36dianping.com/20250909/v2_14e8e15ec51c4bc2971886e50d2c6a7d_oswg78893oswg473oswg473_img_000",
+        "name": "iSlide",
+        "summary": "iSlide是由成都艾斯莱德网络科技有限公司开发的一款基于PowerPoint和WPS的高效PPT插件。它集成了丰富的设计辅助功能和在线资源库，旨在帮助职场人士快速解决PPT设计中遇到的素材欠缺、专业度不够以及效率不高等问题。",
+        "score": "4.4",
+        "starRating": 4.4,
+        "logoTone": 2
+      },
+      {
+        "rank": 13,
+        "id": 15016,
+        "logo": "https://img.36dianping.com/20251201/v2_5910a1456ed643598d9be50f174c712b_oswg18375oswg200oswg200_img_000",
+        "name": "爱派（AiPy）",
+        "summary": "知道创宇推出的通用智能体，集成AI大模型与Python执行环境的AI数字员工，能直接执行任务并交付成果。",
+        "score": "4.4",
+        "starRating": 4.4,
+        "logoTone": 3
+      },
+      {
+        "rank": 14,
+        "id": 15031,
+        "logo": "https://img.36dianping.com/20251210/v2_a42b7c3b91ae45f080bcf9eb077d3846_oswg48148oswg200oswg200_img_000",
+        "name": "潮际好麦",
+        "summary": "潮际汇科技旗下AI商拍平台，为时尚电商提供模特试衣、商品图生成及AI修图等一站式营销内容创作工具。",
+        "score": "4.4",
+        "starRating": 4.4,
+        "logoTone": 4
+      },
+      {
+        "rank": 15,
+        "id": 15034,
+        "logo": "https://img.36dianping.com/20251218/v2_2f13b32f89d04fa685493a1bc08a154b_oswg264720oswg8534oswg8534_img_000",
+        "name": "灵矩绘境",
+        "summary": "灵矩绘境：AI一句话生成商品，单件起订，72小时发货。连接生成、社交与柔性制造，打通灵感到实物全链路的现实世界创造力基础设施。",
+        "score": "4.4",
+        "starRating": 4.4,
+        "logoTone": 5
+      },
+      {
+        "rank": 16,
+        "id": 15042,
+        "logo": "https://img.36dianping.com/20260128/v2_65fe8bcf0b9e41cf8ef57b7b79c22600_oswg9235oswg200oswg200_img_000",
+        "name": "DS随心转",
+        "summary": "专业的AI文档排版与创作工作台，支持将DeepSeek等AI回答一键导出为排版精美的Word文档。",
+        "score": "4.4",
+        "starRating": 4.4,
+        "logoTone": 1
+      },
+      {
+        "rank": 17,
+        "id": 13436,
+        "logo": "https://img.36dianping.com/20250909/v2_283c7b47f2bd43e4a7f6ff273901fa46_oswg3983oswg64oswg64_img_000",
+        "name": "文心一言",
+        "summary": "百度推出的知识增强大语言模型与全能AI助手，具备跨模态理解与生成能力，为用户提供问答、创作、分析等多场景服务。",
+        "score": "4.3",
+        "starRating": 4.3,
+        "logoTone": 2
+      },
+      {
+        "rank": 18,
+        "id": 14554,
+        "logo": "https://img.36dianping.com/20250909/v2_53a28f98072947d398e5b0349aa8a494_oswg9709oswg288oswg288_img_000",
+        "name": "WPS AI",
+        "summary": "金山办公旗下WPS推出的AI办公助手，深度集成于WPS套件，提供PPT一键生成、智能写作、文档处理等全场景AI辅助能力。",
+        "score": "4.3",
+        "starRating": 4.3,
+        "logoTone": 3
+      },
+      {
+        "rank": 19,
+        "id": 14557,
+        "logo": "https://img.36dianping.com/20250909/v2_6e859ef16f9a4216a0cb019736e479c3_oswg67926oswg1012oswg1012_img_000",
+        "name": "通义万相",
+        "summary": "阿里云推出的AI视觉创作平台，提供领先的视频与图像生成模型，覆盖从创意复刻到真实人像定制的全链路视觉创作能力。",
+        "score": "4.3",
+        "starRating": 4.3,
+        "logoTone": 4
+      },
+      {
+        "rank": 20,
+        "id": 14559,
+        "logo": "https://img.36dianping.com/20250909/v2_09edc0feda5a46f2a0a6ee30f817ad5c_oswg7004oswg64oswg64_img_000",
+        "name": "Kimi",
+        "summary": "Kimi是一款AI智能助手，由Moonshot自研的大语言模型驱动,支持在线搜索、深度思考、多模态推理和超长文本对话",
+        "score": "4.3",
+        "starRating": 4.3,
+        "logoTone": 5
+      }
+    ],
+    "startTime": 1786896000000,
+    "endTime": 1787500799999
+  },
+  "fresh": {
+    "items": [
+      {
+        "rank": 1,
+        "id": 15145,
+        "logo": "https://img.36dianping.com/20260814/v2_ace0217f238749c0aa3271952a50e976_oswg2962oswg430oswg430_img_000",
+        "name": "DeepSeek Harness",
+        "summary": "DeepSeek Harness 开发者预览版",
+        "score": "85.63",
+        "starRating": 4.281499999999999,
+        "logoTone": 1
+      },
+      {
+        "rank": 2,
+        "id": 15142,
+        "logo": "https://img.36dianping.com/20260813/v2_ef2e442bd7e84e02ac9a55851d885c1b_oswg623311oswg1328oswg1328_img_000",
+        "name": "论文菇AI—学术论文智慧写作平台",
+        "summary": "国内一键生成式学术论文写作工具，自研【学术4.0模型】可实现重复率和AI率一次性双达标，无需反复降重、降AIGC率。",
+        "score": "73.57",
+        "starRating": 3.6784999999999997,
+        "logoTone": 2
+      },
+      {
+        "rank": 3,
+        "id": 15157,
+        "logo": "https://img.36dianping.com/20260821/v2_bd460b3bf8534c0992ba7d070ab81454_oswg165448oswg512oswg512_img_000",
+        "name": "Lingko AI（灵构AI）",
+        "summary": "面向电商商品图片与营销素材制作的网页端 AI 工作台",
+        "score": "71.01",
+        "starRating": 3.5505000000000004,
+        "logoTone": 3
+      },
+      {
+        "rank": 4,
+        "id": 15139,
+        "logo": "https://img.36dianping.com/20260811/v2_214c7fc1927e49deafd7198303a0958b_oswg263374oswg1000oswg1000_img_jpg",
+        "name": "EC",
+        "summary": "EC是AI驱动的增长型CRM，专注帮助企业提升客户转化率，其SIXBOT平台生成各种营销、销售智能体，协同团队提效，实现业绩增长",
+        "score": "70.46",
+        "starRating": 3.5229999999999997,
+        "logoTone": 4
+      },
+      {
+        "rank": 5,
+        "id": 15149,
+        "logo": "https://img.36dianping.com/20260818/v2_bb23f922b67740b594765caf5a7018bf_oswg372651oswg535oswg535_img_000",
+        "name": "溯己",
+        "summary": "ShadowWorld（溯己） —— 为每个用户生成一个由 7 维人格模型驱动的 AI 影子，让它代替主人在夜间自动浏览、思考、",
+        "score": "68.08",
+        "starRating": 3.404,
+        "logoTone": 5
+      },
+      {
+        "rank": 6,
+        "id": 15151,
+        "logo": "https://img.36dianping.com/20260818/v2_982ace0ad456489bbcc4d1ad271bebc1_oswg95408oswg2048oswg2048_img_000",
+        "name": "标小信",
+        "summary": "标小信是一款专业AI标书工具，面向中小企业、投标新人，仅需上传招标文件，系统自动生成紧扣评分的目录结构，新人也能高效完成标书制作",
+        "score": "68.08",
+        "starRating": 3.404,
+        "logoTone": 1
+      },
+      {
+        "rank": 7,
+        "id": 15135,
+        "logo": "https://img.36dianping.com/20260807/v2_548c5d6e6f0a4b74ab321c9ee01e2224_oswg5640oswg256oswg256_img_000",
+        "name": "软牛PDF",
+        "summary": "一款专业、高效、智能的PDF文档处理软件",
+        "score": "67.96",
+        "starRating": 3.3979999999999997,
+        "logoTone": 2
+      },
+      {
+        "rank": 8,
+        "id": 15121,
+        "logo": "https://img.36dianping.com/20260730/v2_ee6d2763f29b402faa5efe8b774b3487_oswg38947oswg300oswg300_img_000",
+        "name": "WorkBuddy",
+        "summary": "WorkBuddy是腾讯推出的全场景AI办公工作台，可自主拆解任务、调用工具并处理文件，高效完成复杂办公任务。",
+        "score": "67.09",
+        "starRating": 3.3545000000000003,
+        "logoTone": 3
+      },
+      {
+        "rank": 9,
+        "id": 15146,
+        "logo": "https://img.36dianping.com/20260815/v2_d2b32f028c8b45729b9976c008d3898f_oswg2681oswg200oswg200_img_000",
+        "name": "小九AI",
+        "summary": "中文AI技术社区与GEO（迷榖GEO）观察，讲真东西、做Agent评测与AI可见度测量",
+        "score": "65.91",
+        "starRating": 3.2954999999999997,
+        "logoTone": 4
+      },
+      {
+        "rank": 10,
+        "id": 15147,
+        "logo": "https://img.36dianping.com/20260817/v2_37227ac9c9e94487b1e4a241925912e3_oswg112797oswg1000oswg1000_img_png",
+        "name": "AskTable",
+        "summary": "【AskTable】懂语义、识身份的企业级 AI 数据分析智能体，让业务团队用自然语言问数并获得可追问洞察。",
+        "score": "65.80",
+        "starRating": 3.29,
+        "logoTone": 5
+      },
+      {
+        "rank": 11,
+        "id": 15144,
+        "logo": "https://img.36dianping.com/20260814/v2_f4d5e30dd8e84305b5264356dd70a243_oswg6291oswg64oswg64_img_000",
+        "name": "Joker AIx智绘工坊",
+        "summary": "Joker AIx 智绘工坊是自研一站式云端 AI 创意平台，依托无限画布、多模型聚合与节点工作流，支持图文音频、3D 分镜创作",
+        "score": "65.69",
+        "starRating": 3.2845,
+        "logoTone": 1
+      },
+      {
+        "rank": 12,
+        "id": 15143,
+        "logo": "https://img.36dianping.com/20260813/v2_6d803d96ba9c4e1c9311670c5e3c100b_oswg128786oswg512oswg512_img_000",
+        "name": "PatX 知小寻",
+        "summary": "贯穿IP全流程的AI原生专利智能体平台",
+        "score": "64.77",
+        "starRating": 3.2384999999999997,
+        "logoTone": 2
+      },
+      {
+        "rank": 13,
+        "id": 15126,
+        "logo": "https://img.36dianping.com/20260803/v2_7632bfba99424f6d8bd75c0b978668db_oswg836251oswg1024oswg1024_img_000",
+        "name": "一起回家",
+        "summary": "帮情侣/家人把说不清的情绪，翻译成对方听得懂的话 —— 你的 AI 情感调解员",
+        "score": "63.72",
+        "starRating": 3.186,
+        "logoTone": 3
+      },
+      {
+        "rank": 14,
+        "id": 15141,
+        "logo": "https://img.36dianping.com/20260811/v2_d7a1160fa1c440e39dd4e7a0a775aa72_oswg2254oswg256oswg256_img_000",
+        "name": "影像之匠",
+        "summary": "影像之匠是一款AI智能影像处理工具，融合智能调色、人像美化、AI仿色与光影优化，让每一张照片焕发专业质感。",
+        "score": "63.53",
+        "starRating": 3.1765,
+        "logoTone": 4
+      },
+      {
+        "rank": 15,
+        "id": 15140,
+        "logo": "https://img.36dianping.com/20260810/v2_b2605386f3684a458c88de59939a10b3_oswg23348oswg200oswg200_img_000",
+        "name": "Galaxy 星环",
+        "summary": "Galaxy 星环是面向企业客户的全域 GEO 生成式引擎优化 SaaS 工作台，一站式完成问句挖掘、品牌知识库搭建、AI 高引",
+        "score": "63.41",
+        "starRating": 3.1704999999999997,
+        "logoTone": 5
+      },
+      {
+        "rank": 16,
+        "id": 15129,
+        "logo": "https://img.36dianping.com/20260805/v2_879ed65221d4466482bf98228dc00edf_oswg57666oswg224oswg224_img_000",
+        "name": "牛小影",
+        "summary": "牛小影 - 专业级AI视频增强工具",
+        "score": "63.30",
+        "starRating": 3.165,
+        "logoTone": 1
+      },
+      {
+        "rank": 17,
+        "id": 15122,
+        "logo": "https://img.36dianping.com/20260730/v2_747a7d1b37de4abab2b38678d3400698_oswg2162oswg180oswg180_img_000",
+        "name": "Qoder",
+        "summary": "Qoder是一款AI智能编程工具，支持代码生成、项目理解与任务协作，帮助开发者高效完成从需求到交付的全流程。",
+        "score": "61.32",
+        "starRating": 3.066,
+        "logoTone": 2
+      },
+      {
+        "rank": 18,
+        "id": 15138,
+        "logo": "https://img.36dianping.com/20260808/v2_694874695920448ca759302101bfb1d4_oswg11891oswg133oswg157_img_000",
+        "name": "星图AstraFlow大模型",
+        "summary": "中科星图旗下空天信息在线服务平台，以星瞳大模型与DeepSeek等为内核，为开发者提供数据、算力和低代码开发一体化的云上能力。",
+        "score": "60.53",
+        "starRating": 3.0265,
+        "logoTone": 3
+      },
+      {
+        "rank": 19,
+        "id": 15136,
+        "logo": "https://img.36dianping.com/20260808/v2_a30ea97e70e9462595e216603604aa16_oswg2137534oswg2048oswg2048_img_000",
+        "name": "阿右云绘",
+        "summary": "Ai营销素材视频图片一键生成平台",
+        "score": "60.14",
+        "starRating": 3.007,
+        "logoTone": 4
+      },
+      {
+        "rank": 20,
+        "id": 15137,
+        "logo": "https://img.36dianping.com/20260808/v2_090b35d62fa7449ab0e56cbb0f14322a_oswg1163188oswg1023oswg1023_img_000",
+        "name": "全维度AI",
+        "summary": "全维度AI是行业内多个领域共享的技术理念标签，强调从多模态数据、多场景全方位覆盖，常见于图像生成、AI交易、美妆等场景。",
+        "score": "60.06",
+        "starRating": 3.003,
+        "logoTone": 5
+      }
+    ],
+    "startTime": 1786896000000,
+    "endTime": 1787500799999
+  },
+  "hot": {
+    "items": [
+      {
+        "rank": 1,
+        "id": 14563,
+        "logo": "https://img.36dianping.com/20250909/v2_91e348cd9b9b49e59ba6c0c98dbd5a6b_oswg8441oswg80oswg80_img_000",
+        "name": "豆包",
+        "summary": "字节跳动推出的全能AI助手，提供问答、写作、翻译、生图及视频生成等多模态服务。",
+        "score": "89.84",
+        "starRating": 4.492,
+        "logoTone": 1
+      },
+      {
+        "rank": 2,
+        "id": 14638,
+        "logo": "https://img.36dianping.com/20250909/v2_8b4cc3a29754422f94db009a5e5c9a8f_oswg209762oswg430oswg430_img_000",
+        "name": "DeepSeek",
+        "summary": "DeepSeek是杭州深度求索人工智能基础技术研究有限公司推出的AI助手，免费体验与全球领先AI模型的互动交流。",
+        "score": "78.18",
+        "starRating": 3.9090000000000003,
+        "logoTone": 2
+      },
+      {
+        "rank": 3,
+        "id": 14559,
+        "logo": "https://img.36dianping.com/20250909/v2_09edc0feda5a46f2a0a6ee30f817ad5c_oswg7004oswg64oswg64_img_000",
+        "name": "Kimi",
+        "summary": "Kimi是一款AI智能助手，由Moonshot自研的大语言模型驱动,支持在线搜索、深度思考、多模态推理和超长文本对话",
+        "score": "47.55",
+        "starRating": 2.3775,
+        "logoTone": 3
+      },
+      {
+        "rank": 4,
+        "id": 15145,
+        "logo": "https://img.36dianping.com/20260814/v2_ace0217f238749c0aa3271952a50e976_oswg2962oswg430oswg430_img_000",
+        "name": "DeepSeek Harness",
+        "summary": "DeepSeek Harness 开发者预览版",
+        "score": "46.54",
+        "starRating": 2.327,
+        "logoTone": 4
+      },
+      {
+        "rank": 5,
+        "id": 13438,
+        "logo": "https://img.36dianping.com/20250909/v2_ab9ccd231d1247a28821b0595221be8b_oswg15379oswg268oswg268_img_000",
+        "name": "千问",
+        "summary": "千问是阿里巴巴全新推出的AI对话助手,使用阿里最新最全的Qwen大模型,让你无门槛地体验最新A技术带来的智能升级",
+        "score": "30.63",
+        "starRating": 1.5314999999999999,
+        "logoTone": 5
+      },
+      {
+        "rank": 6,
+        "id": 15070,
+        "logo": "https://img.36dianping.com/20260624/v2_3aa217d514d845fb9b896038cf94831e_oswg44271oswg200oswg200_img_000",
+        "name": "蛙趣拼文",
+        "summary": "专为中文长篇创作打造的AI写作工作台，通过素材库与记忆系统解决角色跑偏、伏笔遗忘等长篇小说创作难题。",
+        "score": "29.93",
+        "starRating": 1.4965,
+        "logoTone": 1
+      },
+      {
+        "rank": 7,
+        "id": 14570,
+        "logo": "https://img.36dianping.com/20250909/v2_64bf90353c924800a48030581fcaab94_oswg16406oswg300oswg300_img_000",
+        "name": "可灵AI",
+        "summary": "可灵大模型(Kling)是快手大模型团队自研的先进视频生成模型。该模型基于快手在视频技术方面的多年积累，采用Sora相似的技术路线，并结合多项自研技术创新，效果对标Sora。",
+        "score": "29.72",
+        "starRating": 1.486,
+        "logoTone": 2
+      },
+      {
+        "rank": 8,
+        "id": 15121,
+        "logo": "https://img.36dianping.com/20260730/v2_ee6d2763f29b402faa5efe8b774b3487_oswg38947oswg300oswg300_img_000",
+        "name": "WorkBuddy",
+        "summary": "WorkBuddy是腾讯推出的全场景AI办公工作台，可自主拆解任务、调用工具并处理文件，高效完成复杂办公任务。",
+        "score": "26.47",
+        "starRating": 1.3235,
+        "logoTone": 3
+      },
+      {
+        "rank": 9,
+        "id": 13436,
+        "logo": "https://img.36dianping.com/20250909/v2_283c7b47f2bd43e4a7f6ff273901fa46_oswg3983oswg64oswg64_img_000",
+        "name": "文心一言",
+        "summary": "百度推出的知识增强大语言模型与全能AI助手，具备跨模态理解与生成能力，为用户提供问答、创作、分析等多场景服务。",
+        "score": "25.88",
+        "starRating": 1.294,
+        "logoTone": 4
+      },
+      {
+        "rank": 10,
+        "id": 14555,
+        "logo": "https://img.36dianping.com/20250909/v2_8e1540a0f8da41c5947be960278f5fa6_oswg40518oswg274oswg274_img_000",
+        "name": "讯飞星火认知大模型",
+        "summary": "讯飞星火是科大讯飞“1+N”架构AI大模型，含通用底座与多行业应用，提供公有云API及星火一体机私有化部署。",
+        "score": "25.66",
+        "starRating": 1.283,
+        "logoTone": 5
+      },
+      {
+        "rank": 11,
+        "id": 14632,
+        "logo": "https://img.36dianping.com/20250909/v2_bf61c4f8f0c14eb7aa7dbebd23146996_oswg8244oswg153oswg153_img_000",
+        "name": "千笔",
+        "summary": "专为中文论文写作打造的一站式AI学术助手，覆盖从选题、初稿生成到降重排版全流程，提供真实文献与开题报告。",
+        "score": "25.26",
+        "starRating": 1.2630000000000001,
+        "logoTone": 1
+      },
+      {
+        "rank": 12,
+        "id": 14990,
+        "logo": "https://img.36dianping.com/20251125/v2_34217b5bc4b74206b319d995725481f2_oswg7667oswg200oswg200_img_000",
+        "name": "Loomi",
+        "summary": "Loomi是一款AI视频生成工具，输入文字即可快速生成含剧本、配音及字幕的专业视频，支持50+种语言，适用于营销、教育及社交媒体",
+        "score": "24.89",
+        "starRating": 1.2445,
+        "logoTone": 2
+      },
+      {
+        "rank": 13,
+        "id": 14566,
+        "logo": "https://img.36dianping.com/20250909/v2_0667df4851fa4842b0a76ad628d4719f_oswg16958oswg430oswg430_img_000",
+        "name": "即梦AI",
+        "summary": "字节跳动旗下的一站式AI创意创作平台，提供AI图像与视频生成及编辑能力，让灵感即刻成片。",
+        "score": "24.49",
+        "starRating": 1.2245,
+        "logoTone": 3
+      },
+      {
+        "rank": 14,
+        "id": 15057,
+        "logo": "https://img.36dianping.com/20260518/v2_fef436e815a140c180e7b8fe65ecd0e4_oswg42440oswg328oswg328_img_000",
+        "name": "麦芽AI",
+        "summary": "麦芽AI是一款面向企业的智能分析与自动化平台，融合数据洞察、流程自动化和智能决策，帮助企业提升效率、降低成本、加速创新。",
+        "score": "23.49",
+        "starRating": 1.1744999999999999,
+        "logoTone": 4
+      },
+      {
+        "rank": 15,
+        "id": 14645,
+        "logo": "https://img.36dianping.com/20250909/v2_9aac833123a0437380c153e841231ae6_oswg26188oswg409oswg409_img_000",
+        "name": "熊猫办公",
+        "summary": "一家专注于创意设计模板下载的网站，该平台致力于为用户提供一站式的办公创意服务，涵盖了多个办公场景和领域，以提高用户的办公效率。",
+        "score": "19.84",
+        "starRating": 0.992,
+        "logoTone": 5
+      },
+      {
+        "rank": 16,
+        "id": 14630,
+        "logo": "https://img.36dianping.com/20250909/v2_871c471cbeb5498e89beaf3987a85f79_oswg3061oswg120oswg120_img_000",
+        "name": "百度AI助手",
+        "summary": "基于文心大模型打造的全能 AI 助手，支持对话问答、文案写作、AI 绘图、文档解析",
+        "score": "19.66",
+        "starRating": 0.983,
+        "logoTone": 1
+      },
+      {
+        "rank": 17,
+        "id": 15071,
+        "logo": "https://img.36dianping.com/20260624/v2_bbf7f7a571bf465fbd436bdacf60a56e_oswg78080oswg834oswg834_img_000",
+        "name": "Mugen3D",
+        "summary": "Mugen3D是一款由深圳初创公司趣象时空推出的AI平台，能将单张普通照片快速转化为高精度、高保真的3D模型。",
+        "score": "19.62",
+        "starRating": 0.9810000000000001,
+        "logoTone": 2
+      },
+      {
+        "rank": 18,
+        "id": 15142,
+        "logo": "https://img.36dianping.com/20260813/v2_ef2e442bd7e84e02ac9a55851d885c1b_oswg623311oswg1328oswg1328_img_000",
+        "name": "论文菇AI—学术论文智慧写作平台",
+        "summary": "国内一键生成式学术论文写作工具，自研【学术4.0模型】可实现重复率和AI率一次性双达标，无需反复降重、降AIGC率。",
+        "score": "19.55",
+        "starRating": 0.9775,
+        "logoTone": 3
+      },
+      {
+        "rank": 19,
+        "id": 14562,
+        "logo": "https://img.36dianping.com/20250909/v2_c8fa1ddfe5574965a7bcd757b8e525e8_oswg2217oswg64oswg64_img_000",
+        "name": "智谱清言",
+        "summary": "一款由智谱AI开发的，基于GLM大模型的双语对话模型。基于领先的千亿级多语言、多模态预训练模型，打造高效率、通用化的“模型即服务”AI开发新范式。",
+        "score": "19.44",
+        "starRating": 0.9720000000000001,
+        "logoTone": 4
+      },
+      {
+        "rank": 20,
+        "id": 14575,
+        "logo": "https://img.36dianping.com/20250909/v2_ce6ea804e53b44adab46eef6bb0f6ad7_oswg9863oswg300oswg300_img_000",
+        "name": "讯飞智文",
+        "summary": "科大讯飞推出的人工智能文档创作平台。支持处理各种内容格式，包括一句话主题、长文本、音视频等多种形式。",
+        "score": "19.36",
+        "starRating": 0.968,
+        "logoTone": 5
+      }
+    ],
+    "startTime": 1786896000000,
+    "endTime": 1787500799999
+  }
+}
