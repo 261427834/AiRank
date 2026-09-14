@@ -7,6 +7,8 @@ import { DetailTabs } from "@/components/detail-tabs";
 import { getDetailData, getRankData } from "@/lib/scraper";
 import type { DetailData, ProductDetail, RankedProduct, RankKind } from "@/lib/types";
 
+export const runtime = "edge";
+
 type PageProps = { params: Promise<{ id: string }> };
 
 const rankKinds: RankKind[] = ["score", "fresh", "hot"];
@@ -176,3 +178,4 @@ function Metric({ label, value }: { label: string; value: number }) {
     </div>
   );
 }
+

@@ -1,6 +1,8 @@
 import { RankingExplorer } from "@/components/ranking-explorer";
 import { getRankData } from "@/lib/scraper";
 
+export const runtime = "edge";
+
 export default async function HomePage() {
   const rankData = await getRankData();
   const updatedAt = new Intl.DateTimeFormat("zh-CN", {
@@ -35,3 +37,4 @@ export default async function HomePage() {
     </div>
   );
 }
+
